@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F0B1781C-734B-4524-84B0-0FB4784CF748}|Default">
+  <MonoDevelop.Ide.ItemProperties.custom__datepicker.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.66.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
+    <Files>
+      <File FileName="custom_datepicker/CustomDatePicker.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="4" Column="1" />
+      <File FileName="custom_datepicker/custom_datepicker.cs" Line="9" Column="9" />
+      <File FileName="custom_datepicker/IModalDone.cs" Line="6" Column="37" />
+      <File FileName="custom_datepicker/CustomDate.cs" Line="11" Column="10" />
+      <File FileName="Droid/CustomDatePickerRenderer.cs" Line="18" Column="9" />
+      <File FileName="iOS/CustomDatePickerRenderer.cs" Line="61" Column="13" />
+      <File FileName="iOS/AppDelegate.cs" Line="13" Column="51" />
+      <File FileName="iOS/UIUtils.cs" Line="391" Column="158" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.custom__datepicker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F97C13ED-652C-4306-BAEA-6A12B0F0D2AE" automaticSigning="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="GQEJEHTDM4" TeamId="3UH7BE38T3" />
+  </MonoDevelop.Ide.ItemProperties.custom__datepicker.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
